@@ -1,4 +1,8 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://carbon-media.accelerator.net/0000000muoR/huhSmH8N2hgeZS0atq65hU;960x540.jpeg?auto=webp">
+ <source media="(prefers-color-scheme: light)" srcset="https://carbon-media.accelerator.net/0000000muoR/5PNZyWQ0A70b3GPwn2nrKy;509x339.jpeg?auto=webp">
+ <img alt="Bright circle, Dark enviornment" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!--
 **TirzaWilson/TirzaWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
